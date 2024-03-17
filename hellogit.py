@@ -1,2 +1,1 @@
-print("prueba uno")
-print("prueba dos")
+print("prueba uno de dos")
